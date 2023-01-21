@@ -13,7 +13,7 @@ print("hello world")
 
 end)
 
-Lib:Line
+Lib:Line()
 
 Lib:Label("LABEL")
 
